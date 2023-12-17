@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as t}from"./chunks/framework.bsARZF6k.js";const E=JSON.parse('{"title":"$auth instance","description":"","frontmatter":{},"headers":[],"relativePath":"api/$auth.md","filePath":"api/$auth.md"}'),h={name:"api/$auth.md"},n=t("",69),e=[n];function l(p,k,d,r,o,g){return i(),a("div",null,e)}const y=s(h,[["render",l]]);export{E as __pageData,y as default};
