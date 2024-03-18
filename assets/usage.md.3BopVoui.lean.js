@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as e,R as i}from"./chunks/framework.bsARZF6k.js";const u=JSON.parse('{"title":"Usage","description":"","frontmatter":{},"headers":[],"relativePath":"usage.md","filePath":"usage.md"}'),a={name:"usage.md"},t=i("",17),h=[t];function l(p,c,o,r,d,k){return n(),e("div",null,h)}const E=s(a,[["render",l]]);export{u as __pageData,E as default};

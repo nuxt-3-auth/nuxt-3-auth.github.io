@@ -1,1 +1,0 @@
-import{_ as s,o as i,c as a,R as t}from"./chunks/framework.bsARZF6k.js";const c=JSON.parse('{"title":"Logout","description":"","frontmatter":{},"headers":[],"relativePath":"guide/logout.md","filePath":"guide/logout.md"}'),n={name:"guide/logout.md"},l=t("",6),h=[l];function p(e,k,o,E,g,d){return i(),a("div",null,h)}const u=s(n,[["render",p]]);export{c as __pageData,u as default};
