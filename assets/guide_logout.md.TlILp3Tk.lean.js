@@ -1,1 +1,0 @@
-import{_ as s,o as i,c as a,a4 as t}from"./chunks/framework.jOpZRQ8J.js";const u=JSON.parse('{"title":"Logout","description":"","frontmatter":{},"headers":[],"relativePath":"guide/logout.md","filePath":"guide/logout.md"}'),l={name:"guide/logout.md"},h=t("",6),n=[h];function p(e,k,E,o,g,d){return i(),a("div",null,n)}const c=s(l,[["render",p]]);export{u as __pageData,c as default};
