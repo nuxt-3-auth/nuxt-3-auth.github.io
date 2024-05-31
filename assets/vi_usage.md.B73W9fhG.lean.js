@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as n,a4 as e}from"./chunks/framework.BoZoUyrv.js";const u=JSON.parse('{"title":"Usage","description":"","frontmatter":{},"headers":[],"relativePath":"vi/usage.md","filePath":"vi/usage.md"}'),i={name:"vi/usage.md"},a=e("",17),h=[a];function l(r,d,c,o,p,g){return n(),t("div",null,h)}const E=s(i,[["render",l]]);export{u as __pageData,E as default};

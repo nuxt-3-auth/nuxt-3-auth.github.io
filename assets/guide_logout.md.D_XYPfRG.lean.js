@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as t}from"./chunks/framework.BoZoUyrv.js";const u=JSON.parse('{"title":"Logout","description":"","frontmatter":{},"headers":[],"relativePath":"guide/logout.md","filePath":"guide/logout.md"}'),l={name:"guide/logout.md"},h=t("",6),n=[h];function p(e,k,E,o,g,d){return a(),i("div",null,n)}const c=s(l,[["render",p]]);export{u as __pageData,c as default};

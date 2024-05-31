@@ -1,1 +1,0 @@
-import{_ as s,o as i,c as a,a4 as t}from"./chunks/framework.2jBJKDl8.js";const g=JSON.parse('{"title":"$auth instance","description":"","frontmatter":{},"headers":[],"relativePath":"api/$auth.md","filePath":"api/$auth.md"}'),e={name:"api/$auth.md"},h=t("",74),n=[h];function l(p,k,d,r,o,E){return i(),a("div",null,n)}const y=s(e,[["render",l]]);export{g as __pageData,y as default};
