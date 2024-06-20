@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.D970ZGxH.js";const u=JSON.parse('{"title":"Logout","description":"","frontmatter":{},"headers":[],"relativePath":"guide/logout.md","filePath":"guide/logout.md"}'),l={name:"guide/logout.md"},n=t("",6),h=[n];function e(p,k,o,E,d,g){return a(),i("div",null,h)}const c=s(l,[["render",e]]);export{u as __pageData,c as default};
