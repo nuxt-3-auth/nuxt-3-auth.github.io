@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,a3 as a}from"./chunks/framework.D970ZGxH.js";const u=JSON.parse('{"title":"Usage","description":"","frontmatter":{},"headers":[],"relativePath":"usage.md","filePath":"usage.md"}'),i={name:"usage.md"},n=a("",17),h=[n];function o(l,d,r,c,p,k){return s(),t("div",null,h)}const E=e(i,[["render",o]]);export{u as __pageData,E as default};

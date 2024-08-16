@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.D970ZGxH.js";const c=JSON.parse('{"title":"$auth instance","description":"","frontmatter":{},"headers":[],"relativePath":"api/$auth.md","filePath":"api/$auth.md"}'),e={name:"api/$auth.md"},h=t("",74),n=[h];function l(p,k,d,r,o,E){return a(),i("div",null,n)}const y=s(e,[["render",l]]);export{c as __pageData,y as default};
